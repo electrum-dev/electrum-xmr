@@ -9,6 +9,10 @@
 Privacy-first codebase. Full node, wallet tools, and core protocol logic in one tree.
 ```
 
+<p align="center">
+  <img src="./screen/photo_2026-03-14_15-27-41.jpg" alt="Electrum Monero screenshot" width="720">
+</p>
+
 ## Project Scan
 
 This repository contains the Monero core source tree: the daemon, wallet CLI, wallet RPC service, tests, build tooling, and supporting docs.
@@ -44,12 +48,6 @@ compile     -> cmake --build build -j
 node        -> ./build/bin/monerod
 wallet      -> ./build/bin/monero-wallet-cli
 ```
-
-## Screenshot
-
-<p align="center">
-  <img src="./screen/photo_2026-03-14_15-27-41.jpg" alt="Electrum Monero screenshot" width="720">
-</p>
 
 <p align="center">
   <img src="./assets/xmr_2.png" alt="Electrum Monero XMR" width="280">
